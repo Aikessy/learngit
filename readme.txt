@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Git add merge.
 Git bug branch.
 add coding: utf-8.
+add /usr/bin/env.
